@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="900" height="620" rx="14" fill="#FFFFFF"/>
+
+  <!-- cyber-space frame -->
+  <rect x="30" y="52" width="660" height="416" rx="10" fill="none" stroke="#13275B" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="60" y="40" font-size="20" font-weight="bold" fill="#13275B">[ Cyber-Space ]</text>
+  <text x="688" y="40" font-size="14" fill="#5A6472" text-anchor="end">every layer transparent &amp; modifiable</text>
+
+  <!-- layers -->
+  <g font-size="22" font-weight="bold" fill="#FFFFFF">
+    <rect x="52" y="72"  width="610" height="66" rx="8" fill="#E8850C"/>
+    <text x="72" y="99">Agentic AI Layer</text>
+    <rect x="52" y="148" width="610" height="66" rx="8" fill="#13275B"/>
+    <text x="72" y="175">Control Logic Layer</text>
+    <rect x="52" y="224" width="610" height="66" rx="8" fill="#1B49A8"/>
+    <text x="72" y="251">API Gateway Layer</text>
+    <rect x="52" y="300" width="610" height="66" rx="8" fill="#2F5FC4"/>
+    <text x="72" y="327">Data Layer</text>
+    <rect x="52" y="376" width="610" height="66" rx="8" fill="#4C79D6"/>
+    <text x="72" y="403">Device Abstraction Layer</text>
+  </g>
+  <g font-size="15" fill="#FFFFFF" opacity="0.92">
+    <text x="72" y="122">Agentic AI acting on live data — real-time control logic changes</text>
+    <text x="72" y="198">Custom apps by students &amp; faculty — Safe RL, MPC, rule-based control</text>
+    <text x="72" y="274">Authenticated, role-based access for all campus members — full traceability</text>
+    <text x="72" y="350">Continuous sensor ingestion &amp; logging — time-series + ontology</text>
+    <text x="72" y="426">Vendor-agnostic device &amp; protocol unification — no rip-and-replace</text>
+  </g>
+
+
+  <!-- oversight note -->
+  <rect x="712" y="72" width="166" height="370" rx="10" fill="#FDF3E3" stroke="#E8850C" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="795" y="108" font-size="17" font-weight="bold" fill="#13275B" text-anchor="middle">Humans stay</text>
+  <text x="795" y="130" font-size="17" font-weight="bold" fill="#13275B" text-anchor="middle">in charge</text>
+  <g font-size="13.5" fill="#1A2233">
+    <text x="795" y="168" text-anchor="middle">Faculty &amp; operators</text>
+    <text x="795" y="186" text-anchor="middle">oversee every layer,</text>
+    <text x="795" y="204" text-anchor="middle">intervening only</text>
+    <text x="795" y="222" text-anchor="middle">when needed.</text>
+  </g>
+  <g font-size="13.5" font-weight="bold" fill="#13275B">
+    <text x="746" y="270">Open source</text>
+    <text x="746" y="298">Transparent</text>
+    <text x="746" y="326">Role-based access</text>
+    <text x="746" y="354">Fully auditable</text>
+    <text x="746" y="382">No rip-and-replace</text>
+  </g>
+  <g stroke="#E8850C" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="728,264 732,268 740,258"/>
+    <polyline points="728,292 732,296 740,286"/>
+    <polyline points="728,320 732,324 740,314"/>
+    <polyline points="728,348 732,352 740,342"/>
+    <polyline points="728,376 732,380 740,370"/>
+  </g>
+
+  <!-- connection to physical -->
+  <g stroke="#13275B" stroke-width="3">
+    <line x1="200" y1="468" x2="200" y2="512"/>
+    <line x1="450" y1="468" x2="450" y2="512"/>
+  </g>
+  <g fill="#13275B">
+    <polygon points="200,514 193,500 207,500"/>
+    <polygon points="450,470 443,484 457,484"/>
+  </g>
+
+  <!-- physical space -->
+  <rect x="30" y="514" width="660" height="76" rx="10" fill="#EAF0FA" stroke="#4C79D6" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="60" y="546" font-size="20" font-weight="bold" fill="#13275B">[ Physical-Space ]  Campus infrastructure</text>
+  <text x="60" y="572" font-size="15" fill="#5A6472">buildings · sensors · actuators — HVAC, elevators, lighting &amp; energy, across multiple buildings</text>
+</svg>
