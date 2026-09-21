@@ -1,9 +1,9 @@
 # i4s-platform-docs
 
-**Documentation for the UEC open smart building platform — "Campus as an AI Sandbox"**
+**Documentation for the UEC i4s platform — "Campus as an AI Sandbox"**
 
 The University of Electro-Communications (UEC), Tokyo, Japan
-Institute for Self-Evolving Smart Societies
+Institute for Self-Evolving Smart Societies (i4s)
 
 ---
 
