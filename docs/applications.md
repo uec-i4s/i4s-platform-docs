@@ -1,6 +1,6 @@
 # Reference applications
 
-Applications currently running on the platform, and the layers they exercise. All of them operate on live campus infrastructure through the API Gateway — none bypass it.
+Applications currently running on the UEC i4s Platform (smart building deployment), and the layers they exercise. All of them operate on live campus infrastructure through the API Gateway — none bypass it.
 
 ## Elevator-integrated autonomous mobile robot (Building W9)
 

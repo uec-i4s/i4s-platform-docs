@@ -1,6 +1,6 @@
-# Open-source release roadmap
+# Open-source release roadmap — UEC i4s Platform
 
-The platform is released in stages: documentation first, then components in order of transferability and review readiness. Dates are targets, not promises; each component ships when its security review is complete.
+The i4s Platform is released in stages: documentation first, then components in order of transferability and review readiness. Dates are targets, not promises; each component ships when its security review is complete.
 
 <!-- TBD: 以下の時期・順序はドラフトです。実態に合わせて調整してください。 -->
 

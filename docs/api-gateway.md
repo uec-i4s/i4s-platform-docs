@@ -25,7 +25,7 @@ From a developer's point of view, the campus looks like a well-documented web AP
 
 ## For evaluating institutions
 
-The Gateway pattern is the most transferable part of the platform: it is what turns "we can't let anyone near the building systems" into "campus members build on the building systems every semester." If your institution is evaluating a similar approach, the design questions worth asking first:
+The Gateway pattern is the most transferable part of the i4s Platform: it is what turns "we can't let anyone near the building systems" into "campus members build on the building systems every semester." If your institution is evaluating a similar approach, the design questions worth asking first:
 
 1. What campus identity system will requests bind to?
 2. Which resource groups (buildings, floors, device classes) need distinct access policies?

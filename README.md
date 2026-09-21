@@ -1,15 +1,15 @@
 # i4s-platform-docs
 
-**Documentation for the UEC i4s platform — "Campus as an AI Sandbox"**
+**Documentation for the UEC i4s Platform — an open, five-layer platform for self-evolving smart environments, deployed here as a campus smart building platform ("Campus as an AI Sandbox")**
 
 The University of Electro-Communications (UEC), Tokyo, Japan
-Institute for Self-Evolving Smart Societies (i4s)
+Institute for Self-Evolving Smart Societies
 
 ---
 
 ## What this is
 
-This repository documents an open, five-layer smart building platform deployed across multiple buildings on the UEC campus. The platform wraps closed, vendor-locked building systems — HVAC, ventilation, elevators, sensors, energy — behind a vendor-agnostic abstraction layer and a unified, authenticated API Gateway, so that campus infrastructure becomes a transparent, safely accessible development environment.
+This repository documents the UEC i4s Platform: an open, five-layer platform for self-evolving smart environments, currently deployed as a smart building platform across multiple buildings on the UEC campus. The platform wraps closed, vendor-locked building systems — HVAC, ventilation, elevators, sensors, energy — behind a vendor-agnostic abstraction layer and a unified, authenticated API Gateway, so that campus infrastructure becomes a transparent, safely accessible development environment.
 
 This is a **documentation-first release**. The platform's core components are being open-sourced in stages (see [ROADMAP.md](ROADMAP.md)); this repository is the entry point for institutions and engineers who want to evaluate the architecture.
 

@@ -1,4 +1,4 @@
-# Architecture: the five-layer open smart building platform
+# Architecture: the five-layer UEC i4s Platform
 
 <p align="center">
   <img src="../assets/architecture.svg" alt="Five-layer architecture diagram" width="760">
@@ -36,4 +36,4 @@ The platform currently runs across multiple buildings on the UEC campus (Tokyo),
 
 ## Transferability
 
-The architecture is intentionally minimal in its assumptions: any institution with existing building systems and a campus network can, in principle, reproduce the stack. The practical work of adoption is less about code than about integration and governance — designing the per-building adapters with facility managers, binding the Gateway to the institution's identity system, and agreeing on access policies and audit responsibilities. The staged open-source release ([ROADMAP.md](../ROADMAP.md)) starts with the layers that are most reusable across institutions.
+The layer structure itself is domain-agnostic — smart buildings are its first deployment — and intentionally minimal in its assumptions: any institution with existing building systems and a campus network can, in principle, reproduce the stack. The practical work of adoption is less about code than about integration and governance — designing the per-building adapters with facility managers, binding the Gateway to the institution's identity system, and agreeing on access policies and audit responsibilities. The staged open-source release ([ROADMAP.md](../ROADMAP.md)) starts with the layers that are most reusable across institutions.
