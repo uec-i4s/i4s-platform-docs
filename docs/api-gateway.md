@@ -6,7 +6,7 @@
 
 Opening campus infrastructure to thousands of campus members only works if access is **safe by construction**. The Gateway is the one and only path between applications (including AI agents) and the building systems below. Nothing talks to devices directly.
 
-This single choke point is what lets us hand real control to developers who are not building professionals — including students: every capability that reaches the physical plant is authenticated, scoped, rate-limited, and logged.
+This single choke point is what lets us hand real control to developers who are not building professionals — including students: every capability that reaches the physical plant is authenticated, scoped, and logged.
 
 ## Access model
 
@@ -22,15 +22,3 @@ This single choke point is what lets us hand real control to developers who are 
 ## What developers experience
 
 From a developer's point of view, the campus looks like a well-documented web API: discover sensors, read live and historical data, and — with the appropriate role — actuate devices within granted scopes. The barrier to a first build is deliberately low; the audit trail, safety bounds, and physical precedence are what make that low barrier responsible.
-
-## For evaluating institutions
-
-The Gateway pattern is the most transferable part of the i4s Platform: it is what turns "we can't let anyone near the building systems" into "campus members build on the building systems every semester." If your institution is evaluating a similar approach, the design questions worth asking first:
-
-1. What campus identity system will requests bind to?
-2. Which resource groups (buildings, floors, device classes) need distinct access policies?
-3. Who reviews the audit trail, and on what cadence?
-4. What hard safety bounds must hold no matter what an application requests?
-5. How is governance agreed with the facilities division that operates the buildings?
-
-We are happy to discuss our answers — open an issue or get in touch.
